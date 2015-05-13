@@ -1,2 +1,0 @@
-redirectMatch 301 ^(.*)$ http://a7-software.github.io/andaman7-api 
-redirectMatch permanent ^(.*)$ http://a7-software.github.io/andaman7-api
